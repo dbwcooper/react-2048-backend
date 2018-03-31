@@ -1,0 +1,20 @@
+{
+  "name": "react-2048-backend",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "duanbowen <dbwencookie@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "node app.js "
+  },
+  "dependencies": {
+    "koa-body": "^2.5.0",
+    "koa-bodyparser": "^4.2.0",
+    "koa-router": "^7.3.0",
+    "koa2": "^2.0.0",
+    "koa2-cors": "^2.0.5",
+    "md5": "^2.2.1",
+    "mysql": "^2.15.0",
+    "uuid": "^3.2.1"
+  }
+}
